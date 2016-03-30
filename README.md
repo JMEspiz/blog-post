@@ -54,8 +54,7 @@ author_location: En un bosque de la China
 Summary: Este es el primer post del blog
 image: /images/imagen_300_300.ext
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut velit vel tellus fermentum luctus. Suspendisse porttitor mattis purus, sit amet rutrum diam tempor et. Quisque enim mauris, rutrum quis tellus nec, faucibus pretium ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam sodales sagittis ante ut egestas. Sed mollis turpis eu varius maximus. Nulla nisi neque, ullamcorper commodo maximus varius, sodales eu ante. Phasellus interdum sem non purus consequat aliquam. Praesent ultrices sollicitudin tellus non euismod. Donec nisl sapien, lacinia vitae pellentesque eget, pellentesque non ipsum.
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 
 ```
