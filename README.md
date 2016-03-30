@@ -54,7 +54,31 @@ author_location: En un bosque de la China
 Summary: Este es el primer post del blog
 image: /images/imagen_300_300.ext
 
+// De acá hacia abajo sería el contenido del post.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 
 ```
+
+
+### Recomendaciones:
+
+Leer esta [guia](https://github.com/circa75/dropplets/wiki/Markdown-Syntax-Guide) de Markdown
+
+### Normas para la publicacion
+
+* No deben violar ningun derecho de `copyright`.
+* No deben ser sobre racismo.
+* Ni hablar de **POLITICA**.
+* Pornografia.
+
+Cualquier publicación que viole estas normativas será eliminado.
+
+## Ya envie mi post, ¿cuando será publicado?
+
+El post pasa a estar publicado luego que sea aceptado el pull request. Este proceso es de aproximadamente 10 minutos. Siempre y cuando los admin del grupo tengan un tiempo libre para incluir el post </joke>
+
+## Licencia
+
+Todos los post estan disponible bajo *[CC 4.0 (by-nc-sa)](http://creativecommons.org/licenses/by-nc-sa/4.0)* .
