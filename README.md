@@ -28,3 +28,34 @@ image:
 * `author_location` Donde te encuentras. Por ejemplo: Valencia, Venezuela
 * `Summary` Un pequeño resumen de lo que trata el post
 * `image` La imagen relacionada a la publicacion debe ser de `300x300`
+    * `ext` Puede ser jpg o png
+
+El post debe poseer la extension `.md` !important.
+
+### Imagenes
+
+Se agrega una carpeta llamada `images` donde deben colocar las imagenes relacionadas a su publicacion.
+
+#### Ejemplo
+
+`primer-post.md`
+
+```
+Title: Mi primer post
+Date: 2016-03-30 13:20
+Category: Blog
+Tags: Blog,
+Slug: primer-post
+Author: Angel Cruz
+author_pic_url: https://secure.gravatar.com/avatar/b5a93f6390e4bdb85a484d15b549d467
+twitter: abr4xas
+author_bio: Solo se que no se nada xD
+author_location: En un bosque de la China
+Summary: Este es el primer post del blog
+image: /images/imagen_300_300.ext
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut velit vel tellus fermentum luctus. Suspendisse porttitor mattis purus, sit amet rutrum diam tempor et. Quisque enim mauris, rutrum quis tellus nec, faucibus pretium ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam sodales sagittis ante ut egestas. Sed mollis turpis eu varius maximus. Nulla nisi neque, ullamcorper commodo maximus varius, sodales eu ante. Phasellus interdum sem non purus consequat aliquam. Praesent ultrices sollicitudin tellus non euismod. Donec nisl sapien, lacinia vitae pellentesque eget, pellentesque non ipsum.
+
+
+
+```
