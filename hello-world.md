@@ -1,0 +1,12 @@
+Title:
+Date:
+Category:
+Tags:
+Slug:
+Author:
+author_pic_url:
+twitter:
+author_bio:
+author_location:
+Summary:
+image:
