@@ -21,7 +21,7 @@ image:
 * `Category` una sola categoria.
 * `Tags` Maximo de 3 separados por comas `,`
 * `Slug` Debe estar relacionado con el titulo por ejemplo: `my-super-post`
-* `Author` Tu nombre y Apellido
+* `Author` Tu nombre y Apellido o si lo prefieres, tu nick
 * `author_pic_url` Url de tu avatar recomendamos gravatar :)
 * `twitter` Tu usuario de twitter sin incluir el `@`
 * `author_bio` Una pequeña bio de quien eres :D
@@ -46,7 +46,7 @@ Date: 2016-03-30 13:20
 Category: Blog
 Tags: Blog,
 Slug: primer-post
-Author: Angel Cruz
+Author: abr4xas
 author_pic_url: https://secure.gravatar.com/avatar/b5a93f6390e4bdb85a484d15b549d467
 twitter: abr4xas
 author_bio: Solo se que no se nada xD
