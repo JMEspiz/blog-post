@@ -77,7 +77,7 @@ Cualquier publicación que viole estas normativas será eliminado.
 
 ## Ya envie mi post, ¿cuando será publicado?
 
-El post pasa a estar publicado luego que sea aceptado el pull request. Este proceso es de aproximadamente 10 minutos. Siempre y cuando los admin del grupo tengan un tiempo libre para incluir el post </joke>
+El post pasa a estar publicado luego que sea aceptado el pull request. Este proceso es de aproximadamente 10 minutos pero tambien va a depender de la disponibilidad de los encargados del blog. :D
 
 ## Licencia
 
