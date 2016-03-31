@@ -11,7 +11,9 @@ author_location:
 Summary: Quienes colaboramos y formamos parte de la comunidad AngularJs de Venezuela, conocida cómo ngVenezuela, impartiremos y compartiremos conocimientos y experiencias sobre el framework AngularJs y el lenguaje de programación Javascript a quienes manifiesten su interés en aprenderlo.
 image: images/logo_angular_ve.png
 
+
 ![ngVenezuela Logo](images/logo_angular_ve.png)
+
 Quienes colaboramos y formamos parte de la comunidad Angular de Venezuela, conocida cómo **ngVenezuela**, impartiremos y compartiremos conocimientos y experiencias sobre el framework **Angular** y el lenguaje de programación **Javascript** a quienes manifiesten su interés en aprenderlo.
 
 Recibiremos a cualquiera que desee aportar sus conocimientos y habilidades en pro de nuestra comunidad, sin importar su género, apariencia o estado físico, su condición social o económica, campo laboral o profesional, orientación sexual, raza o credo.
