@@ -1,6 +1,6 @@
 Title: Manifesto de la comunidad ngVenezuela
 Date: 2016-03-30 17:20
-Category: comnidad
+Category: comunidad
 Tags: manifiesto, comunidad
 Slug: manifiesto-ngvenezuela
 Author:
