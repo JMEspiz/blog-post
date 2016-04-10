@@ -1,8 +1,8 @@
 Title: Probando Angular, Experiencia de un Junior
 Date: 2016-04-10 14:20
 Category: Opinion
-Tags: primeros, pasos
-Slug: primeros-pasos
+Tags: primeros, pasos, opinion
+Slug:probando-angular-experiencia-junior
 Author:JMEspiz
 author_pic_url:https://s.gravatar.com/avatar/2766383c0d2f35d5fe8700a028881b7b?s=80&r=r
 twitter:jmespiz
