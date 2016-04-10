@@ -8,8 +8,10 @@ author_pic_url:https://s.gravatar.com/avatar/2766383c0d2f35d5fe8700a028881b7b?s=
 twitter:jmespiz
 author_bio:Jr Dev and Personal IT
 author_location:Valencia, Venezuela
-Summary: ¿Pensando en iniciar en  Angular? En esta publicación podr´as leer la experiencia de un Junior que al igual que tu estaba pensando en iniciar en Angular
-image: images/angular-bg-blue.png
+Summary: ¿Pensando en iniciar en  Angular? En esta publicación podras leer la experiencia de un Junior que al igual que tu estaba pensando en iniciar en Angular
+image: images/angular-bg-blue-300.png
+
+![image post](images/angular-bg-blue.png)
 
 
 Cuando eres un junior y comienzas en el mundo del desarrollo Web te veras agobiado por la enorme cantidad de herramientas, framework, lenguajes de programacion, arquitecturas y más. Pero si te enfocas en un area en particular, como el Front End, esta inmensidad puede ser reducida considerablemente a tres tecnologias: **HTML5**, **CSS3** y **JavaScript**. No obstante, la epoca donde el Front End era solo una cara bonita termino hace mucho con la llegada de framework como Angular, que te permiten desarrollar poderosas aplicaciones del lado del cliente.
@@ -19,7 +21,7 @@ Cuando eres un junior y comienzas en el mundo del desarrollo Web te veras agobia
 
 Es un poderoso framework Javascript desarrollado y mantenido por google y la comunidad, que se basa en un arquitectura MV* que permite crear aplicaciones de una sola pagina (SPA - Single page Application).
 
-![logo](https://raw.githubusercontent.com/ngVenezuela/press-kit/master/img/logo/logo_angular_ve_github.png)
+![ngVenezuela Logo](images/logo_angular_ve.png)
 
 ### Por que vale la pena aprenderlo.
 
