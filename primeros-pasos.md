@@ -17,11 +17,11 @@ image: images/getting-started-angular.jpg
 
 ¿Eres nuevo con Angular? Este repo te guiará un poco sobre cómo empezar a conocer este maravilloso framework. Aquí podrás encontrar:
 
-- [Conceptos Básicos.](#top)
+- Conceptos Básicos.
 - Códigos de Ejemplo Documentados.
-- [Enlaces y Referecias a Librerias.](#modulos-adicionales)
-- [Recursos en Linea.](#recursos-en-linea)
-- [Libros](#libros)
+- Enlaces y Referecias a Librerias.
+- Recursos en Linea.
+- Libros
 
 ### Que necesito para comenzar a Aprender AngularJS
 
