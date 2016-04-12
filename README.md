@@ -79,6 +79,14 @@ Cualquier publicación que viole estas normativas será eliminado.
 
 El post pasa a estar publicado luego que sea aceptado el pull request. Este proceso es de aproximadamente 10 minutos pero tambien va a depender de la disponibilidad de los encargados del blog. :D
 
+### Contribuir
+
+1. Fork it
+* Crea una rama nueva con tu post (`git checkout -b mi-post`)
+* Crea un commit con tus cambios nuevos (`git commit -am 'Se agrega un nuevo post para el blog de ngVenezuela'`)
+* Haces un push a tu rama (`git push origin mi-post`)
+* Creas un nuevo pull request
+
 ## Licencia
 
 Todos los post estan disponible bajo *[CC 4.0 (by-nc-sa)](http://creativecommons.org/licenses/by-nc-sa/4.0)* .
