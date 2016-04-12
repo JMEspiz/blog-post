@@ -19,16 +19,16 @@ image: images/getting-started-angular.jpg
 
 - Conceptos Básicos.
 - Códigos de Ejemplo Documentados.
-- Enlaces y Referecias a Librerias.
-- Recursos en Linea.
+- Enlaces y Referecias a Librerías.
+- Recursos en Línea.
 - Libros
 
-### Que necesito para comenzar a Aprender AngularJS
+### ¿Qué necesito para comenzar a Aprender AngularJS?
 
 * Conocimientos de Javascript *
 * Tu editor de Texto o IDE Favorito (Como [Sublime](http://www.sublimetext.com/),[Atom](https://atom.io/) o [NotePad](https://notepad-plus-plus.org/))
 * Un Navegador Web.
-* Motivación por aprender y dominar este magnifico Framework
+* Motivación por aprender y dominar este magnífico Framework
 
 **Nota:** Te recomendamos antes de aprender un framework dominar el lenguaje en el que esta basado para aprovechar todas sus bondades.
 
@@ -41,8 +41,8 @@ image: images/getting-started-angular.jpg
     * [JavaScript for Cats](http://jsforcats.com/): So easy your human companion could do it too !
 
 ### Conceptos Basicos
-- ¿Que es un Framework?
-- ¿Que es AngularJS?
+- ¿Qué es un Framework?
+- ¿Qué es AngularJS?
 - ¿Ventajas de usar AngularJS?
 - Instalar AngularJS
 - Directives (Directivas )
@@ -57,4 +57,4 @@ image: images/getting-started-angular.jpg
 - Templates (Plantillas)
 - Forms (Formularios)
 
-Para más información clic [aquí](https://github.com/ngVenezuela/primeros-pasos).
+Para más información haz clic [aquí](https://github.com/ngVenezuela/primeros-pasos).
