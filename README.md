@@ -75,17 +75,17 @@ Leer esta [guia](https://github.com/circa75/dropplets/wiki/Markdown-Syntax-Guide
 
 Cualquier publicación que viole estas normativas será eliminado.
 
-## Ya envie mi post, ¿cuando será publicado?
-
-El post pasa a estar publicado luego que sea aceptado el pull request. Este proceso es de aproximadamente 10 minutos pero tambien va a depender de la disponibilidad de los encargados del blog. :D
-
-### Contribuir
+## Contribuir
 
 1. Fork it
 * Crea una rama nueva con tu post (`git checkout -b mi-post`)
 * Crea un commit con tus cambios nuevos (`git commit -am 'Se agrega un nuevo post para el blog de ngVenezuela'`)
 * Haces un push a tu rama (`git push origin mi-post`)
 * Creas un nuevo pull request
+
+## Ya envie mi post, ¿cuando será publicado?
+
+El post pasa a estar publicado luego que sea aceptado el pull request. Este proceso es de aproximadamente 10 minutos pero tambien va a depender de la disponibilidad de los encargados del blog. :D
 
 ## Licencia
 
