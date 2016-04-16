@@ -34,7 +34,7 @@ El post debe poseer la extension `.md` !important.
 
 ### Imagenes
 
-Se agrega una carpeta llamada `images` donde deben colocar las imagenes relacionadas a su publicacion.
+Se agrega una carpeta llamada `images` donde deben colocar la `image` relacionada a su publicacion se recomienda usar otros servicios si va a usar más de una imagen en su publicación.
 
 #### Ejemplo
 
