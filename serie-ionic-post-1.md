@@ -1,5 +1,5 @@
 Title: Desarrollo Móvil con Ionic Framework: Parte I - Preparando Entorno
-Date: 2016-04-10 14:20
+Date: 2016-08-25 13:00
 Category: Tutorial
 Tags: primeros, pasos, ionic, tutorail
 Slug: desarrollo-movil-con-ionic-framework-parte-i
