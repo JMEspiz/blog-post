@@ -74,7 +74,7 @@ nvm --version #Que nos mostrara la versión de nvm
 
 Ya con nvm funcionando visito la pagina oficial de node para ver sus versiones actuales y descargo la versión LTS estable que para este momento es la v4.4.7 (también me gusta vivir al extremo pero como estamos aprendiendo “vamo a calmarno”).
 
-<img src="//quebolu.com/uploads/meme1456530637gen.jpg" alt="vamo a calmarno" width="250px" height="250px"/>
+<img src="http://quebolu.com/uploads/meme1456530637gen.jpg" alt="vamo a calmarno" width="250px" height="250px"/>
 
 para instalarla usamos el comando:
 
