@@ -49,7 +49,7 @@ Una de las mejores formas de aprender es participar en pequeños proyecto para i
 
 ### Consíguenos en:
 
-- [Google Groups](https://groups.google.com/forum/#!forum/**ngVenezuela**)
-- [Twitter](http://twitter.com/**ngVenezuela**)
-- [Github](https://github.com/**ngVenezuela**)
-- [Telegram](https://telegram.me/**ngVenezuela**)
+- [Google Groups](https://groups.google.com/forum/#!forum/ngVenezuela)
+- [Twitter](http://twitter.com/ngVenezuela)
+- [Github](https://github.com/ngVenezuela)
+- [Telegram](https://telegram.me/ngVenezuela)
