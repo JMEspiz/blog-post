@@ -41,7 +41,7 @@ Comunidad de Desarrolladores Angular en Venezuela, que con la participación de 
 Así como también el saludo a todas las comunidades que estába atentas al streaming…
 
 
- Una vez realizado el agradecimiento a todos los patrocinantes, NOMBRE DEL JEFE  DE JORGE, Gerente de Sistemas del Hospital Alemán, procedió a explicarnos como fué evolucionando las interfaces de usuario de los distintos sistemas que posee la institución y como se aprovecho el uso de las nuevas tecnologías y técnicas de desarrollo web, para mejorar tanto el flujo de trabajo como la usabilidad en sus interfaces, sin dejar a un lado, todo lo que tiene que ver con el performance de la aplicación, y como el departamento  se preparaba para los próximos pasos, que consistía en seguir brindando a sus usuarios la mejor experiencia posible.
+ Una vez realizado el agradecimiento a todos los patrocinantes, Gonzalo Segarra, Gerente de Sistemas del Hospital Alemán, procedió a explicarnos como fué evolucionando las interfaces de usuario de los distintos sistemas que posee la institución y como se aprovecho el uso de las nuevas tecnologías y técnicas de desarrollo web, para mejorar tanto el flujo de trabajo como la usabilidad en sus interfaces, sin dejar a un lado, todo lo que tiene que ver con el performance de la aplicación, y como el departamento  se preparaba para los próximos pasos, que consistía en seguir brindando a sus usuarios la mejor experiencia posible.
 
 
 ### ¡Comenzamos el BOOTCAMP!
