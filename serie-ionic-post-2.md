@@ -54,7 +54,7 @@ El terminar de armar tu proyecto la CLI te ofrecerá información de interés co
 
 Si corrimos el ultimo comando y visitamos (El browser se abre automáticamente)  la dirección **http://localhost:8000** podremos ver nuestra App recién hecha.
 
-![ionic tabs](images/ionic_project_struture.png)
+![ionic tabs](images/ionic_serve_tabs.png)
 
 
 Veamos la estructura del proyecto:
